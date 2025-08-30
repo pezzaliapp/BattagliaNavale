@@ -1,4 +1,4 @@
-# Battaglia Navale — App in una sola cartella
+# Battaglia Navale
 
 Una versione semplice di **Battaglia Navale** (giocatore vs Computer), sviluppata in **HTML + CSS + JavaScript** senza dipendenze. Tutti i file stanno in **un'unica cartella**.
 
@@ -35,7 +35,7 @@ Una versione semplice di **Battaglia Navale** (giocatore vs Computer), sviluppat
 MIT © 2025 — Alessandro Pezzali (PezzaliAPP)
 ---
 
-## Nota di Propaganda Interna
+## Nota dell'autore
 
 Questa **Battaglia Navale** non è solo un gioco: è anche un esempio di quanto la programmazione possa essere **semplice e diretta**.
 
